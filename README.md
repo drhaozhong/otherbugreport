@@ -6,7 +6,10 @@ Since April 2018, we have conducted a field study with our tool, LERE. The purpo
 
 The basic idea of LERE is to learn known bug reports of other compilers. It is able to extract code samples that appear in attachments and are embedded in natural language descriptions/comments. These code samples are often short, real, and provide insights on why a compiler is buggy. Although they are used to illustrate bugs in a compiler, programmers of other compilers are often not aware of such code samples. 
 
-In our study, we have found 104 bugs, in which 59 was marked as New and 6 was already fixed. Here is the list of our found bugs [bug file](/reportedbug.xlsx).
+In our study, we have found 104 bugs, in which 59 was marked as New and 6 was already fixed. The two types of bugs, such as accept-invalid and reject-valid, are not reported by the prior approaches [1-3].
+
+
+Here is the list of our found bugs [bug file](/reportedbug.xlsx).
 
 
 ## Reference
