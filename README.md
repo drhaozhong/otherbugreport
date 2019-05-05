@@ -10,7 +10,7 @@ In our study, most of our found bugs are accept-invalid bugs and reject-valid bu
 
 We appreciate the developers of gcc and clang, for their efforts in analyzing and repairing our reported bugs. The difference in the number of found bugs is not an indicator for which compiler is better or not. In a way, it reflects their concerns of the quality and the compatibility of compilers.
 
-Here is the list of our found bugs [bug file](/reportedbug.xlsx).
+Here is the list of our [found bugs](/reportedbug.xlsx).
 
 
 ## Reference
