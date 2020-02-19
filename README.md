@@ -1,4 +1,4 @@
-# Learning bug report of other compilers
+# Learning test input from bug report of other compilers
 
 ## Project summary
 
