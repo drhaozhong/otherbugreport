@@ -1,0 +1,91 @@
+gcc++	reported ID	URL	referenced ID	referenced URL	status	component	importance	keyword	version
+	38142	https://bugs.llvm.org/show_bug.cgi?id=38142	7876	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=7876	dupl	c++	p	accepts-invalid	unspecified
+	37886	https://bugs.llvm.org/show_bug.cgi?id=37886	86074	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86074	dupl	c++	P	accepts-invalid	unspecified
+	38235	https://bugs.llvm.org/show_bug.cgi?id=38235	59281	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=59281	fixed	c++	p	accepts-invalid	trunk
+	38141	https://bugs.llvm.org/show_bug.cgi?id=38141	68475	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=68475	fixed	c++	p	accepts-invalid	unspecified
+	38237	https://bugs.llvm.org/show_bug.cgi?id=38237	34691	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=34691	moved	c++	p	accepts-invalid	trunk
+	38353	https://bugs.llvm.org/show_bug.cgi?id=38353	6024	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=6024	new	new bugs	p	accepts-invalid	trunk
+	38205	https://bugs.llvm.org/show_bug.cgi?id=38205	14622	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=14622	new	c++	p	accepts-invalid	unspecified
+	37921	https://bugs.llvm.org/show_bug.cgi?id=37921	14768	https://bugs.llvm.org/show_bug.cgi?id=14768	new	c++	P	accepts-invalid	unspecified
+	38127	https://bugs.llvm.org/show_bug.cgi?id=38127	17040	https://bugs.llvm.org/show_bug.cgi?id=17040	new	c++	p	accepts-invalid	unspecified
+	38351	https://bugs.llvm.org/show_bug.cgi?id=38351	21342	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=21342	new	new bugs	p	accepts-invalid	trunk
+	38206	https://bugs.llvm.org/show_bug.cgi?id=38206	21686	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=21686	new	c++	p	accepts-invalid	trunk
+	38234	https://bugs.llvm.org/show_bug.cgi?id=38234	32505	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=32505	new	c++	p	accepts-invalid	trunk
+	38202	https://bugs.llvm.org/show_bug.cgi?id=38202	45917	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=45917	new	c++	p	accepts-invalid	unspecified
+	38145	https://bugs.llvm.org/show_bug.cgi?id=38145	52174	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=52174	new	c++	p	accepts-invalid	unspecified
+	38352	https://bugs.llvm.org/show_bug.cgi?id=38352	67964	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=67964	fixed	new bugs	p	accepts-invalid	trunk
+	38238	https://bugs.llvm.org/show_bug.cgi?id=38238	68979	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=68979	new	c++	p	accepts-invalid	trunk
+	38201	https://bugs.llvm.org/show_bug.cgi?id=38201	70172	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=70172	new	c++	p	accepts-invalid	unspecified
+	37842	https://bugs.llvm.org/show_bug.cgi?id=37842	86193	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86193	new	c++	P	accepts-invalid	unspecified
+	37846	https://bugs.llvm.org/show_bug.cgi?id=37846	48665	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=48665	reopen	c++	P	accepts-invalid	unspecified
+	37830	https://bugs.llvm.org/show_bug.cgi?id=37830	11743	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=11743	new	c++	P	documentation	unspecified
+	38361	https://bugs.llvm.org/show_bug.cgi?id=38361	22340	https://bugs.llvm.org/show_bug.cgi?id=22340	new	new bugs	p	ice-on-valid-code	trunk
+	37831	https://bugs.llvm.org/show_bug.cgi?id=37831	44473	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=44473	won't fix	c++	P	ice-on-valid-code	unspecified
+	38296	https://bugs.llvm.org/show_bug.cgi?id=38296	69753	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=69753	dupl	c++	p	rejects-valid	trunk
+	38299	https://bugs.llvm.org/show_bug.cgi?id=38299	78623	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=78623	dupl	c++	p	rejects-valid	trunk
+	38282	https://bugs.llvm.org/show_bug.cgi?id=38282	71285	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=71285	fixed	c++	p	rejects-valid	trunk
+	37171	https://bugs.llvm.org/show_bug.cgi?id=37171	21834	https://bugs.llvm.org/show_bug.cgi?id=21834	new	c++	P	rejects-valid	unspecified
+	38301	https://bugs.llvm.org/show_bug.cgi?id=38301	21835	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=21835	invalid	c++	p	rejects-valid	trunk
+	37722	https://bugs.llvm.org/show_bug.cgi?id=37722	35466	https://bugs.llvm.org/show_bug.cgi?id=35466	new	c++	P	rejects-valid	unspecified
+	38269	https://bugs.llvm.org/show_bug.cgi?id=38269	50271	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=50271	new	c++	p	rejects-valid	unspecified
+	38216	https://bugs.llvm.org/show_bug.cgi?id=38216	54249	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=54249	new	c++	p	rejects-valid	unspecified
+	38268	https://bugs.llvm.org/show_bug.cgi?id=38268	70141	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=70141	dupl	c++	p	rejects-valid	unspecified
+	38350	https://bugs.llvm.org/show_bug.cgi?id=38350	34212	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=34212	won't fix	new bugs	p	rejects-valid	trunk
+	38300	https://bugs.llvm.org/show_bug.cgi?id=38300	52216	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=52216	won't fix	c++	p	rejects-valid	trunk
+	37719	https://bugs.llvm.org/show_bug.cgi?id=37719	10925	https://bugs.llvm.org/show_bug.cgi?id=10925	invalid	c++	P		unspecified
+	37720	https://bugs.llvm.org/show_bug.cgi?id=37720	6002	https://bugs.llvm.org/show_bug.cgi?id=6002	invalid	c++	P		unspecified
+	37721	https://bugs.llvm.org/show_bug.cgi?id=37721	12961	https://bugs.llvm.org/show_bug.cgi?id=12961	invalid	c++	P		unspecified
+	37821	https://bugs.llvm.org/show_bug.cgi?id=37821	7708	https://bugs.llvm.org/show_bug.cgi?id=7708	invalid	c++	P		unspecified
+	37822	https://bugs.llvm.org/show_bug.cgi?id=37822	8650	https://bugs.llvm.org/show_bug.cgi?id=8650	invalid	c++	P		unspecified
+	37829	https://bugs.llvm.org/show_bug.cgi?id=37829	6030	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=6030	invalid	c++	P		unspecified
+	37833	https://bugs.llvm.org/show_bug.cgi?id=37833	51184	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=51184	invalid	c++	P		unspecified
+	37843	https://bugs.llvm.org/show_bug.cgi?id=37843	55149	https://bugs.llvm.org/show_bug.cgi?id=55149	invalid	c++	P		unspecified
+	37844	https://bugs.llvm.org/show_bug.cgi?id=37844	33786	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=33786	invalid	c++	P		unspecified
+	37845	https://bugs.llvm.org/show_bug.cgi?id=37845	35602	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=35602	invalid	c++	P		unspecified
+	37847	https://bugs.llvm.org/show_bug.cgi?id=37847	15083	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=15083	invalid	c++	P		unspecified
+	37848	https://bugs.llvm.org/show_bug.cgi?id=37848	49813	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=49813	invalid	c++	P		unspecified
+	37850	https://bugs.llvm.org/show_bug.cgi?id=37850	2189	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=2189	invalid	c++	P		unspecified
+	37851	https://bugs.llvm.org/show_bug.cgi?id=37851	66197	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=66197	invalid	c++	P		unspecified
+	37852	https://bugs.llvm.org/show_bug.cgi?id=37852	16021	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=16021	invalid	c++	P		unspecified
+	37862	https://bugs.llvm.org/show_bug.cgi?id=37862	53733	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=53733	invalid	c++	P		unspecified
+	37863	https://bugs.llvm.org/show_bug.cgi?id=37863	62255	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=62255	invalid	c++	P		unspecified
+	37864	https://bugs.llvm.org/show_bug.cgi?id=37864	56871	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=56871	invalid	c++	P		unspecified
+	37865	https://bugs.llvm.org/show_bug.cgi?id=37865	52654	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=52654	invalid	c++	P		unspecified
+	37866	https://bugs.llvm.org/show_bug.cgi?id=37866	79184	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=79184)	invalid	c++	P		unspecified
+	37867	https://bugs.llvm.org/show_bug.cgi?id=37867	1876	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=1876	invalid	c++	P		unspecified
+code sample	37869	https://bugs.llvm.org/show_bug.cgi?id=37869	2189	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=2189	invalid	c++	P		unspecified
+	37870	https://bugs.llvm.org/show_bug.cgi?id=37870	78089	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=78089	invalid	c++	P		unspecified
+	37885	https://bugs.llvm.org/show_bug.cgi?id=37885	86181	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=31775	invalid	c++	P		unspecified
+	37922	https://bugs.llvm.org/show_bug.cgi?id=37922	14772	https://bugs.llvm.org/show_bug.cgi?id=14772	invalid	c++	P		unspecified
+	37923	https://bugs.llvm.org/show_bug.cgi?id=37923	23421	https://bugs.llvm.org/show_bug.cgi?id=23421	invalid	c++	P		unspecified
+	37925	https://bugs.llvm.org/show_bug.cgi?id=37925	13068	https://bugs.llvm.org/show_bug.cgi?id=13068	invalid	c++	P		unspecified
+	38140	https://bugs.llvm.org/show_bug.cgi?id=38140	47301	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=47301	invalid	c++	p		unspecified
+	38144	https://bugs.llvm.org/show_bug.cgi?id=38144	20420	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=20420	invalid	c++	p		unspecified
+	38203	https://bugs.llvm.org/show_bug.cgi?id=38203	57610	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=57610	invalid	c++	p		unspecified
+	38236	https://bugs.llvm.org/show_bug.cgi?id=38236	58377	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=58377	invalid	c++	p		unspecified
+clang	38265	https://bugs.llvm.org/show_bug.cgi?id=38265	60980	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=60980	invalid	c++	p		unspecified
+	38266	https://bugs.llvm.org/show_bug.cgi?id=38266	53220	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=53220	invalid	c++	p		unspecified
+	38267	https://bugs.llvm.org/show_bug.cgi?id=38267	54955	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=54955	invalid	c++	p		unspecified
+	38293	https://bugs.llvm.org/show_bug.cgi?id=38293	64251	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=64251	invalid	c++	p		unspecified
+	38294	https://bugs.llvm.org/show_bug.cgi?id=38294	23789	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=23789	invalid	c++	p		unspecified
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+							u		
