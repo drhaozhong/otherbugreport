@@ -1,0 +1,191 @@
+reported ID	URL	referenced ID	referenced URL	status	component	importance	keyword	version
+86665	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86665	1876	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=1876	dupl	c++	P3	accepts-invalid	9.0
+86502	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86502	5134	https://bugs.llvm.org/show_bug.cgi?id=5134	dupl	c++	P3	accepts-invalid	9.0
+86298	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86298	6964	https://bugs.llvm.org/show_bug.cgi?id=6964	dupl	c++	P3	accepts-invalid	8.0.1
+86596	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86596	7607	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=7607	dupl	c++	P3	accepts-invalid	9.0
+86185	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86185	9276	https://bugs.llvm.org/show_bug.cgi?id=9276	dupl	c++	P3	accepts-invalid	7.0
+86580	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86580	10618	https://bugs.llvm.org/show_bug.cgi?id=10618	dupl	c++	P3	accepts-invalid	9.0
+86230	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86230	14500	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=14500	dupl	c++	P3	accepts-invalid	unknown
+86600	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86600	24030	https://bugs.llvm.org/show_bug.cgi?id=24030	dupl	c++	P3	accepts-invalid	9.0
+86187	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86187	25357	https://bugs.llvm.org/show_bug.cgi?id=25357	dupl	c++	P3	accepts-invalid	9.0
+86235	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86235	37719	https://bugs.llvm.org/show_bug.cgi?id=37719	dupl	c++	P3	accepts-invalid	5.1.0
+86255	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86255	37850	https://bugs.llvm.org/show_bug.cgi?id=37850	dupl	c++	P3	accepts-invalid	9.0
+86225	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86225	71748	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=71748	dupl	c++	P3	accepts-invalid	4.4.0
+86237	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86237	79184	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=79184	dupl	c++	P3	accepts-invalid	4.8.1
+86250	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86250	2189	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=2189	dupl	c++	P3	accepts-invalid	unknown
+86499	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86499	18128	https://bugs.llvm.org/show_bug.cgi?id=18128	fixed	c++	P3	accepts-invalid	8.1.0
+86249	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86249	1876	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=1876	new	c++	P3	accepts-invalid	unknown
+86563	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86563	6527	https://bugs.llvm.org/show_bug.cgi?id=6527	new	c++	P3	accepts-invalid	9.0
+86633	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86633	9546	https://bugs.llvm.org/show_bug.cgi?id=9546	new	c++	P3	accepts-invalid	9.0
+86601	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86601	9834	https://bugs.llvm.org/show_bug.cgi?id=9834	new	c++	P3	accepts-invalid	9.0
+86652	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86652	13447	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=13447	new	c++	P3	accepts-invalid	9.0
+86561	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86561	14265	https://bugs.llvm.org/show_bug.cgi?id=14265	new	c++	P3	accepts-invalid	9.0
+86581	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86581	14503	https://bugs.llvm.org/show_bug.cgi?id=14503	new	c++	P3	accepts-invalid	9.0
+86602	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86602	15842	https://bugs.llvm.org/show_bug.cgi?id=15842	new	c++	P3	accepts-invalid	9.0
+86233	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86233	16021	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=16021	new	c++	P3	accepts-invalid	unknown
+86500	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86500	20991	https://bugs.llvm.org/show_bug.cgi?id=20991	new	c++	P3	accepts-invalid	8.1.0
+86238	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86238	37720	https://bugs.llvm.org/show_bug.cgi?id=37720	new	c++	P3	accepts-invalid	unknown
+86228	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86228	45278	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=45278	new	c++	P3	accepts-invalid	unknown
+86234	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86234	62255	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=62255	new	c++	P3	accepts-invalid	unknown
+86181	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86181	5966	https://bugs.llvm.org/show_bug.cgi?id=5966	suspended	c++	P3	accepts-invalid	8.1.0
+86191	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86191	8427	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=8427	suspended	c++	P3	accepts-invalid	unknown
+86583	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86583	53903	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=53903	suspended	c++	P3	accepts-invalid	9.0
+86253	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86253	37843	https://bugs.llvm.org/show_bug.cgi?id=37843	unconfirmed	c++	P3	accepts-invalid	unknown
+86299	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86299	7385	https://bugs.llvm.org/show_bug.cgi?id=7385	invalid	c++	P3	accepts-invalid	9.0
+86303	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86303	7055	https://bugs.llvm.org/show_bug.cgi?id=7055	unconfirmed	c++	P3	accepts-invalid	9.0
+86501	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86501	28023	https://bugs.llvm.org/show_bug.cgi?id=28023	new	c++	P3	accepts-invalid	8.1.0
+86564	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86564	4594	https://bugs.llvm.org/show_bug.cgi?id=4594	new	c++	P3	accepts-invalid	9.0
+86565	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86565	21332	https://bugs.llvm.org/show_bug.cgi?id=21332	unconfirmed	c++	P3	accepts-invalid	9.0
+86577	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86577	7209	https://bugs.llvm.org/show_bug.cgi?id=7209	unconfirmed	c++	P3	accepts-invalid	9.0
+86579	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86579	30782	https://bugs.llvm.org/show_bug.cgi?id=30782	unconfirmed	c++	P3	accepts-invalid	9.0
+86634	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86634	6031	https://bugs.llvm.org/show_bug.cgi?id=6031	invalid	c++	P3	accepts-invalid	9.0
+85460	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=85460	7051	https://bugs.llvm.org/show_bug.cgi?id=7051	new	c++	P3	diagnostic	7.3.1
+86709	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86709	4319	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=4319	new	c++	P3	documentation	9.0
+86718	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86718	86528	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86528	dupl	middle-end	P3	ice-on-valid-code	9.0
+86558	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86558	50436	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=50436	new	c++	P3	ice-on-valid-code	9.0
+86594	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86594	81236	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=81236	new	c++	P3	ice-on-valid-code	9.0
+86478	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86478	19878	https://bugs.llvm.org/show_bug.cgi?id=19878	dupl	c++	P3	ice-on-valid-code	8.1.0
+86715	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86715	56344	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=56344	unconfirmed	middle-end	P3	ice-on-valid-code	9.0
+86182	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86182	10531	https://bugs.llvm.org/show_bug.cgi?id=10531	fixed	c++	P2	"ice-on-valid-code, rejects-valid"	8.1.1
+86208	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86208	3698	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=3698	fixed	c++	P3	link-failure	8.1.1
+86476	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86476	21437	https://bugs.llvm.org/show_bug.cgi?id=21437	fixed	c++	P3	rejects-valid	8.1.0
+86307	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86307	7863	https://bugs.llvm.org/show_bug.cgi?id=7863	dupl	c++	P3	rejects-valid	8.0.1
+86310	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86310	8905	https://bugs.llvm.org/show_bug.cgi?id=8905	dupl	c++	P3	rejects-valid	8.0.1
+86474	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86474	9359	https://bugs.llvm.org/show_bug.cgi?id=9359	dupl	c++	P3	rejects-valid	8.1.0
+86180	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86180	9518	https://bugs.llvm.org/show_bug.cgi?id=9518	dupl	c++	P3	rejects-valid	7.3.1
+86305	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86305	30361	https://bugs.llvm.org/show_bug.cgi?id=30361	dupl	c++	P3	rejects-valid	3.3.1
+86207	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86207	67371	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=67371	dupl	c++	P3	rejects-valid	7.0
+86184	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86184	7726	https://bugs.llvm.org/show_bug.cgi?id=7726	fixed	c++	P3	rejects-valid	unknown
+86302	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86302	9208	https://bugs.llvm.org/show_bug.cgi?id=9208	new	c++	P3	rejects-valid	8.0.1
+86431	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86431	9989	https://bugs.llvm.org/show_bug.cgi?id=9989	new	c++	P3	rejects-valid	8.1.0
+85461	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=85461	9999	https://bugs.llvm.org/show_bug.cgi?id=9999	new	c++	P3	rejects-valid	7.3.1
+86183	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86183	10044	https://bugs.llvm.org/show_bug.cgi?id=10044	new	c++	P3	rejects-valid	8.1.0
+86598	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86598	12717	https://bugs.llvm.org/show_bug.cgi?id=12717	new	c++	P3	rejects-valid	9.0
+86498	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86498	16314	https://bugs.llvm.org/show_bug.cgi?id=16314	new	c++	P3	rejects-valid	8.1.0
+86475	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86475	17052	https://bugs.llvm.org/show_bug.cgi?id=17052	new	c++	P3	rejects-valid	8.1.0
+86254	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86254	33786	https://bugs.llvm.org/show_bug.cgi?id=37844	new	c++	P3	rejects-valid	unknown
+86251	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86251	37829	https://bugs.llvm.org/show_bug.cgi?id=37829	new	c++	P3	rejects-valid	unknown
+86503	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86503	44175	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=44175	new	c++	P3	rejects-valid	8.1.0
+86252	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86252	37833	https://bugs.llvm.org/show_bug.cgi?id=37833	new	c++	P3	rejects-valid	unknown
+86193	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86193	44753	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=44753	suspended	c++	P3	rejects-valid	8.1.0
+86430	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86430	7708	https://bugs.llvm.org/show_bug.cgi?id=7708	unconfirmed	c++	P3	rejects-valid	9.0
+86192	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86192	70377	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=70377	dupl	c++	P3	rejects-valid 	7.0
+86385	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86385	35039	https://bugs.llvm.org/show_bug.cgi?id=35039	new	c++	P3	wrong-code	9.0
+86719	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86719	201	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=201	dupl	c	P3		9.0
+86074	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86074	20335	https://bugs.llvm.org/show_bug.cgi?id=20335	invalid	c++	P3		7.3.1
+86186	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86186	20092	https://bugs.llvm.org/show_bug.cgi?id=20092	invalid	c++	P3		unknown
+86226	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86226	77914	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=77914	invalid	c++	P3		unknown
+86227	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86227	39131	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=39131	invalid	c++	P3		unknown
+86300	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86300	7388	https://bugs.llvm.org/show_bug.cgi?id=7388	invalid	c++	P3		8.0.1
+86301	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86301	7079	https://bugs.llvm.org/show_bug.cgi?id=7079	invalid	c++	P3		8.0.1
+86306	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86306	22043	https://bugs.llvm.org/show_bug.cgi?id=22043	invalid	c++	P3		8.0.1
+86477	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86477	16204	https://bugs.llvm.org/show_bug.cgi?id=16204	invalid	c++	P3		8.1.0
+86562	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86562	16353	https://bugs.llvm.org/show_bug.cgi?id=16353	invalid	c++	P3		9.0
+86578	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86578	22042	https://bugs.llvm.org/show_bug.cgi?id=22042	invalid	c++	P3		9.0
+86716	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86716	77767	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=77767	invalid	c++	P3		9.0
+86720	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86720	4777	https://bugs.llvm.org/show_bug.cgi?id=4777	invalid	c	P3		9.0
+86721	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86721	13099	https://bugs.llvm.org/show_bug.cgi?id=13099	invalid	c	P3		9.0
+86729	https://gcc.gnu.org/bugzilla/show_bug.cgi?id=86729	2103	https://bugs.llvm.org/show_bug.cgi?id=2103	invalid	c	P3		9.0
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+						u		
