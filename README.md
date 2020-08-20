@@ -1,10 +1,10 @@
-# Learning test input from bug report of other compilers
+# Enriching Compiler Test Program from Bug Report
 
 ## Project summary
 
-Since April 2018, we have conducted a field study with our tool, LERE. The purpose of our study is to detect bugs in the C++ component of gcc and clang. The prior approaches [1-3] have detected hundreds of bugs in gcc and clang. Despite their incredible success, it is still quite difficult to detect compiler bugs. For example, a recent empirical study [4] shows that the C++ component has many bugs, but most tools can generate code samples only in C, since it is more challenging to detect bugs in C++ [2, 4].
+Since April 2018, we have conducted a field study with our tool, LERE. The purpose of our study is to detect bugs in the C++ component of gcc and clang. The prior approaches [1-3] have detected hundreds of bugs in gcc and clang. Despite their incredible success, it is still difficult to generate sufficient test programs, and is quite difficult to detect some types of compiler bugs. For example, a recent empirical study [4] shows that the C++ component has many bugs, but most tools can generate test programs only in C, since it is more challenging to detect bugs in C++ [2, 4].
 
-In our project, we propose a novel approach to enrich the test inputs of compilers. Our basic idea is to learn code samples from bug reports of other compilers. Our tool, LERE, is able to extract code samples that appear in attachments and are embedded in natural language descriptions/comments. These code samples are often short, real, and provide insights on why a compiler is buggy. Although they are used to illustrate bugs in a compiler, programmers of other compilers are often not aware of such code samples. 
+In our project, we propose a novel approach to enrich the test programs of compilers. Our basic idea is to learn test programs from bug reports of other compilers. Our tool, LERE, is able to extract test programs that are embedded in natural language descriptions/comments. These test programs are often short, real, and provide insights on why a compiler is buggy. Although they are used to illustrate bugs in a compiler, programmers of other compilers are often not aware of such test programs. 
 
 In our study, most of our found bugs are accept-invalid bugs and reject-valid bugs, which are not reported by the prior approaches [1-3].
 
