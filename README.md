@@ -1,12 +1,10 @@
-# Enriching Compiler Test Program from Bug Report
+# Bug Report: A Novel Source to Enrich Compiler Test Program
 
 ## Project summary
 
-A key problem of compiler testing is to generate test programs. The prior approaches either generate random programs or mutate available programs. With more test programs, the prior approaches [1-3] have detected hundreds of bugs in gcc and clang. Despite their incredible success, their generated test programs are still limited. For example, their generated test programs are not real code, and it is challenging to generate programs in complicated programming languages like C++. Partially due to the lack of test programs, the prior approaches are insufficient to detect some types of compiler bugs. For example, a recent empirical study [4] shows that the C++ component has many bugs, but most tools can generate test programs only in C [2, 4]. 
+A key problem of compiler testing is to generate test  programs. Only after test programs are generated, other approaches can check whether compilation results are as expected, adn thus detect bugs in compilers. The prior approaches either generate random programs or mutate available programs. In particular, random-based approaches [1] generate random programs, and mutation-based approaches [2,3] mutate known programs to generate more test programs. Despite their incredible success, their generated test programs are still limited. For example, their generated test programs are not real code, and it is challenging to generate programs in complicated programming languages like C++. 
 
-In our project, we propose a novel approach, called LERE, to enrich the test programs of the state of the art. LERE does not generate random programs nor mutate available programs. Instead, it proposes a new way to collect test programs. It is based on our following observation. Compilers have bug reports, and such bug reports are embedded with many test programs. These test programs are real code, and are tricky and challenging to compliers. As a result, even if programmers fixed their revealed problems in a compiler, similar problems remain in other compilers.
-
-Our tool, LERE, is able to extract test programs that are embedded in natural language descriptions/comments. These test programs are often short, real, and provide insights on why a compiler is buggy. Although they are used to illustrate bugs in a compiler, programmers of other compilers are often not aware of such test programs. 
+In our project, we identify another source to generate test programs. For the first time, we identify that test programs from bug reports are an effective source to detect compiler bugs. WE implemented a tool called LERE to extract test programs from bug reports of other compilers; compile test programs with default settings; and compare compilation results to detect bugs in compilers. 
 
 
 ## Experience report
@@ -26,4 +24,3 @@ Our found [gcc bugs](https://anonymous.4open.science/repository/bae36f81-a4bc-46
 
 [3] V. Le, C. Sun, and Z. Su. Finding deep compiler bugs via guided stochastic program mutation. In Proc. OOPSLA, pages 386-399, 2015.
 
-[4] C. Sun, V. Le, Q. Zhang, and Z. Su. Toward understanding compiler bugs in gcc and llvm. In Proc. ISSTA, pages 294-305, 2016.
