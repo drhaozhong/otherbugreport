@@ -1,4 +1,4 @@
-# Bug Report: A Novel Source to Enrich Compiler Test Program
+# Enriching Compiler Testing with Real Program from Bug Report
 
 ## Project summary
 
